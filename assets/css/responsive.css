@@ -15,6 +15,10 @@
 	.nav-item.active {
 		overflow: hidden;
 	}
+	.home-page-one .main-slider h1 span{
+		margin-top: 25px;
+		font-size: 34px;
+	}
 }
 
 @media only screen and (max-width: 768px) {
