@@ -549,12 +549,12 @@ textarea:focus {
 ====================================================================
 
 ***/
-.hop-name{
+/* .hop-name{
 	margin-left: 5px;
 	font-size: 22px;
 	font-weight: 800;
 	color: #568701;
-}
+} */
 .main-slider {
 	position: relative;
 }
