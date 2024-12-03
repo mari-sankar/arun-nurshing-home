@@ -3078,9 +3078,11 @@ textarea {
 	font-weight: 400;
 	line-height: 26px;
 }
-
+.appont_sec_inner a.sm{
+	font-size: 22px;
+}
 .appont_sec_inner a {
-	font-size: 26px;
+	font-size: 24px;
 	line-height: 32px;
 	color: #568701;
 	font-weight: 700;
