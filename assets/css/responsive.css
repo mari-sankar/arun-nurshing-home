@@ -16,8 +16,8 @@
 		overflow: hidden;
 	}
 	.home-page-one .main-slider h1 span{
-		margin-top: 25px;
-		font-size: 34px;
+		font-size: 32px;
+		line-height: 50px;
 	}
 }
 
