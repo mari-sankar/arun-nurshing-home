@@ -567,7 +567,7 @@ textarea:focus {
 .main-slider .content {
 	position: relative;
 	z-index: 1000;
-	width: 650px;
+	width: 685px;
 }
 
 .main-slider .slide {
@@ -581,8 +581,8 @@ textarea:focus {
 
 .main-slider h1 {
 	position: relative;
-	font-size: 48px;
-	font-weight: 400;
+	font-size: 38px;
+	font-weight: 600;
 	line-height: 58px;
 	text-transform: uppercase;
 	opacity: 0;
@@ -6186,6 +6186,7 @@ textarea {
 .home-page-one .main-slider h1 span {
 	color: #568701;
 	font-weight: 800;
+	font-size: 44px;
 }
 
 .home-page-one .main-slider .text {
